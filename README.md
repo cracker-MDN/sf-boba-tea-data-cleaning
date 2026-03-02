@@ -77,7 +77,7 @@ Using only the `id` or `name` column risks removing rows that share an ID but ha
 
 ---
 
-## Lessons Learned
+## Key Takeaways & Analytical Decisions
 
 - Always inspect data before deleting — filtering first reveals patterns that inform better decisions
 - COUNTIF is a powerful verification tool: establish a baseline count before cleaning, then verify after
