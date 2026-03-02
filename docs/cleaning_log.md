@@ -1,6 +1,7 @@
 # Data Cleaning Log — SF Boba Tea Shop Dataset
 
 **Analyst:** MD  Noornabi
+
 **Date:** March 2026  
 **Tool:** Microsoft Excel  
 **Dataset:** San Francisco Boba Tea Shop Location Info  
@@ -141,7 +142,7 @@ If column H contained `=-G2` and we deleted column G first, all formulas in H wo
 
 ---
 
-## Lessons & Reflections
+## Key Takeaways & Analytical Decisions
 
 1. **Filter before delete** — always inspect what you're about to remove before acting
 2. **COUNTIF as a QA tool** — establish baseline counts before cleaning, verify after
